@@ -1,0 +1,13 @@
+.header_bottom {
+    background-color: #000;
+    height: 105px;
+}
+iframe {
+    width: 400px;
+    height: 621px;
+    padding: 10px;
+    /*! padding-left: 10px; */
+}
+i{
+	color: white;
+}
